@@ -2134,5 +2134,17 @@
     "soal": "O-D-T-R-E-K",
     "tipe": "Profesi",
     "jawaban": "DOKTER"
-  }
+  },
+  {
+    "index": 356,
+    "soal": "I-K-K-I",
+    "tipe": "Ortu",
+    "jawaban": "KIKI",
+  },
+  {
+    "index": 357,
+    "soal": "T-G-H-A-A-N",
+    "tipe": "Orang Ganteng",
+    "jawaban": "GATHAN",
+}
 ]
